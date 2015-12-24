@@ -5,6 +5,7 @@ import android.view.View;
 import com.jb.pullrefreshlayout.customview.PullRefreshLayout;
 
 /**
+ *
  * Created by Jianbin on 2015/12/12.
  */
 public interface PullRefreshDataHandler {

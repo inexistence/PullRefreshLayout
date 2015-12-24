@@ -3,6 +3,7 @@ package com.jb.pullrefreshlayout.customview.handler;
 import com.jb.pullrefreshlayout.customview.PullRefreshLayout;
 
 /**
+ *
  * Created by Jianbin on 2015/12/12.
  */
 public interface PullRefreshUIHandler {
